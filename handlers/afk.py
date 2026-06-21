@@ -1,6 +1,6 @@
 from aiogram import Router, types
 from aiogram.utils.keyboard import InlineKeyboardBuilder
-from db.models import get_player, update_player
+from db.models import get_player, update_player, get_team_characters
 from engine.data_loader import data_cache
 from datetime import datetime, timezone
 from handlers.utils import edit_or_answer
