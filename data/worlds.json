@@ -1,0 +1,32 @@
+{
+  "1": {
+    "name": "🔥 Огненные Земли",
+    "description": "Равнины, охваченные вечным пламенем.",
+    "boss_id": "boss_ignis",
+    "enemy_types": ["flame_imp", "flame_golem", "spark"]
+  },
+  "2": {
+    "name": "🌊 Океан Бурь",
+    "description": "Бескрайнее море, где правят пираты и водные духи.",
+    "boss_id": "boss_leviathan",
+    "enemy_types": ["drowned_pirate", "water_elemental", "siren"]
+  },
+  "3": {
+    "name": "⚡ Небесный Шторм",
+    "description": "Парящие острова среди вечных молний.",
+    "boss_id": "boss_thunder_dragon",
+    "enemy_types": ["storm_hawk", "electric_slime", "storm_giant"]
+  },
+  "4": {
+    "name": "🌑 Царство Теней",
+    "description": "Мир, где свет не существует.",
+    "boss_id": "boss_shadow_king",
+    "enemy_types": ["shadow_assassin", "ghost_wolf", "void_walker"]
+  },
+  "5": {
+    "name": "☠ Бездна Пустоты",
+    "description": "Последний рубеж реальности.",
+    "boss_id": "boss_void_lord",
+    "enemy_types": ["void_horror", "nothing", "void_walker"]
+  }
+}

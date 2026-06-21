@@ -1,0 +1,35 @@
+[
+  {"id": "relic_hp_01", "name": "Осколок жизни", "rarity": "Common", "effect": "hp", "value": 2},
+  {"id": "relic_atk_01", "name": "Коготь воина", "rarity": "Common", "effect": "atk", "value": 2},
+  {"id": "relic_def_01", "name": "Чешуя стража", "rarity": "Common", "effect": "def", "value": 2},
+  {"id": "relic_spd_01", "name": "Перо ветра", "rarity": "Common", "effect": "spd", "value": 2},
+  {"id": "relic_crit_01", "name": "Монета удачи", "rarity": "Common", "effect": "crit", "value": 1},
+  {"id": "relic_gold_01", "name": "Золотой самородок", "rarity": "Common", "effect": "gold", "value": 5},
+  {"id": "relic_hp_02", "name": "Сердце холма", "rarity": "Common", "effect": "hp", "value": 3},
+  {"id": "relic_atk_02", "name": "Клык зверя", "rarity": "Common", "effect": "atk", "value": 3},
+  {"id": "relic_def_02", "name": "Горный камень", "rarity": "Common", "effect": "def", "value": 3},
+  {"id": "relic_spd_02", "name": "Крыло стрижа", "rarity": "Common", "effect": "spd", "value": 3},
+
+  {"id": "relic_hp_03", "name": "Эликсир здоровья", "rarity": "Rare", "effect": "hp", "value": 5},
+  {"id": "relic_atk_03", "name": "Книга ярости", "rarity": "Rare", "effect": "atk", "value": 5},
+  {"id": "relic_def_03", "name": "Щит рыцаря", "rarity": "Rare", "effect": "def", "value": 5},
+  {"id": "relic_spd_03", "name": "Сапоги путника", "rarity": "Rare", "effect": "spd", "value": 5},
+  {"id": "relic_crit_02", "name": "Глаз ястреба", "rarity": "Rare", "effect": "crit", "value": 2},
+  {"id": "relic_gold_02", "name": "Кошель торговца", "rarity": "Rare", "effect": "gold", "value": 10},
+  {"id": "relic_hp_04", "name": "Амулет духа", "rarity": "Rare", "effect": "hp", "value": 6},
+  {"id": "relic_atk_04", "name": "Коготь дракона", "rarity": "Rare", "effect": "atk", "value": 6},
+  {"id": "relic_def_04", "name": "Зеркальный щит", "rarity": "Rare", "effect": "def", "value": 6},
+  {"id": "relic_spd_04", "name": "Кольцо ветра", "rarity": "Rare", "effect": "spd", "value": 6},
+
+  {"id": "relic_hp_05", "name": "Кровь титана", "rarity": "Epic", "effect": "hp", "value": 10},
+  {"id": "relic_atk_05", "name": "Меч великана", "rarity": "Epic", "effect": "atk", "value": 10},
+  {"id": "relic_def_05", "name": "Доспех дракона", "rarity": "Epic", "effect": "def", "value": 10},
+  {"id": "relic_spd_05", "name": "Крылья грифона", "rarity": "Epic", "effect": "spd", "value": 10},
+  {"id": "relic_crit_03", "name": "Звезда падения", "rarity": "Epic", "effect": "crit", "value": 4},
+  {"id": "relic_gold_03", "name": "Слиток дворфа", "rarity": "Epic", "effect": "gold", "value": 20},
+  {"id": "relic_hp_06", "name": "Сердце горы", "rarity": "Epic", "effect": "hp", "value": 12},
+
+  {"id": "dragon_heart", "name": "Сердце Дракона", "rarity": "Legendary", "effect": "hp", "value": 20},
+  {"id": "eye_of_fate", "name": "Око Судьбы", "rarity": "Legendary", "effect": "crit", "value": 8},
+  {"id": "ancient_crown", "name": "Корона Предков", "rarity": "Legendary", "effect": "atk", "value": 15}
+]

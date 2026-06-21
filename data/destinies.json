@@ -1,0 +1,12 @@
+[
+  {"id": "monarch", "name": "Monarch", "desc": "+20% HP, +10% ATK", "bonus_hp": 20, "bonus_atk": 10},
+  {"id": "void_lord", "name": "Void Lord", "desc": "+15% CRIT, +10% к урону", "bonus_crit": 15, "bonus_dmg": 10},
+  {"id": "immortal", "name": "Immortal", "desc": "Каждый ход восстанавливает 5% HP", "regen_per_turn": 5},
+  {"id": "dragon_slayer", "name": "Dragon Slayer", "desc": "+50% урона драконам, +10% ATK", "dragon_damage": 50, "bonus_atk": 10},
+  {"id": "time_weaver", "name": "Time Weaver", "desc": "Перемотка времени: первый удар наносит двойной урон", "double_first_strike": true},
+  {"id": "star_born", "name": "Star Born", "desc": "+25% к эффективности щитов и лечения", "shield_heal_power": 25},
+  {"id": "abyssal", "name": "Abyssal", "desc": "Атаки игнорируют 20% защиты цели", "ignore_def": 20},
+  {"id": "phoenix", "name": "Phoenix", "desc": "При смерти возрождается с 30% HP (раз в бою)", "rebirth": 30},
+  {"id": "shadow_master", "name": "Shadow Master", "desc": "+30% к скорости и +10% к уклонению", "bonus_spd": 30, "bonus_dodge": 10},
+  {"id": "celestial", "name": "Celestial", "desc": "+15% ко всем характеристикам", "bonus_all": 15}
+]

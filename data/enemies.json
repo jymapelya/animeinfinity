@@ -1,0 +1,162 @@
+{
+  "goblin": {
+    "name": "Гоблин",
+    "hp": 180,
+    "atk": 50,
+    "def": 18,
+    "spd": 75,
+    "skills": ["basic_attack"]
+  },
+  "flame_imp": {
+    "name": "Огненный бес",
+    "hp": 200,
+    "atk": 60,
+    "def": 22,
+    "spd": 80,
+    "skills": ["basic_attack", "fire_ball"]
+  },
+  "flame_golem": {
+    "name": "Пламенный голем",
+    "hp": 300,
+    "atk": 45,
+    "def": 50,
+    "spd": 50,
+    "skills": ["basic_attack", "fire_shield"]
+  },
+  "spark": {
+    "name": "Искра",
+    "hp": 150,
+    "atk": 75,
+    "def": 12,
+    "spd": 100,
+    "skills": ["basic_attack"]
+  },
+  "drowned_pirate": {
+    "name": "Пират-утопленник",
+    "hp": 220,
+    "atk": 65,
+    "def": 30,
+    "spd": 70,
+    "skills": ["basic_attack", "water_slash"]
+  },
+  "water_elemental": {
+    "name": "Водный элементаль",
+    "hp": 250,
+    "atk": 50,
+    "def": 42,
+    "spd": 55,
+    "skills": ["basic_attack", "water_prison"]
+  },
+  "siren": {
+    "name": "Сирена",
+    "hp": 190,
+    "atk": 40,
+    "def": 22,
+    "spd": 90,
+    "skills": ["basic_attack", "healing_song"]
+  },
+  "storm_hawk": {
+    "name": "Штормовой ястреб",
+    "hp": 200,
+    "atk": 80,
+    "def": 28,
+    "spd": 110,
+    "skills": ["basic_attack", "lightning_strike"]
+  },
+  "electric_slime": {
+    "name": "Электрический слизень",
+    "hp": 180,
+    "atk": 50,
+    "def": 38,
+    "spd": 35,
+    "skills": ["basic_attack", "static_charge"]
+  },
+  "storm_giant": {
+    "name": "Грозовой великан",
+    "hp": 380,
+    "atk": 90,
+    "def": 55,
+    "spd": 30,
+    "skills": ["basic_attack", "thunder_clap"]
+  },
+  "shadow_assassin": {
+    "name": "Теневой убийца",
+    "hp": 210,
+    "atk": 95,
+    "def": 28,
+    "spd": 120,
+    "skills": ["basic_attack", "shadow_strike"]
+  },
+  "ghost_wolf": {
+    "name": "Призрачный волк",
+    "hp": 190,
+    "atk": 75,
+    "def": 14,
+    "spd": 130,
+    "skills": ["basic_attack", "howl"]
+  },
+  "void_horror": {
+    "name": "Искажённый ужас",
+    "hp": 300,
+    "atk": 85,
+    "def": 48,
+    "spd": 65,
+    "skills": ["basic_attack", "void_gaze"]
+  },
+  "void_walker": {
+    "name": "Пустотный странник",
+    "hp": 240,
+    "atk": 70,
+    "def": 36,
+    "spd": 85,
+    "skills": ["basic_attack", "blink"]
+  },
+  "nothing": {
+    "name": "Ничто",
+    "hp": 450,
+    "atk": 105,
+    "def": 65,
+    "spd": 45,
+    "skills": ["basic_attack", "consume"]
+  },
+  "boss_ignis": {
+    "name": "Игнис, Хранитель Пламени",
+    "hp": 1500,
+    "atk": 110,
+    "def": 40,
+    "spd": 85,
+    "skills": ["basic_attack", "inferno", "flame_shield"]
+  },
+  "boss_leviathan": {
+    "name": "Левиафан Пучин",
+    "hp": 2000,
+    "atk": 95,
+    "def": 50,
+    "spd": 75,
+    "skills": ["basic_attack", "regeneration", "tidal_wave"]
+  },
+  "boss_thunder_dragon": {
+    "name": "Громовой Дракон",
+    "hp": 2800,
+    "atk": 150,
+    "def": 55,
+    "spd": 95,
+    "skills": ["basic_attack", "lightning_storm", "thunder_shield"]
+  },
+  "boss_shadow_king": {
+    "name": "Король Теней",
+    "hp": 3800,
+    "atk": 180,
+    "def": 65,
+    "spd": 90,
+    "skills": ["basic_attack", "summon_shadow", "dark_aura"]
+  },
+  "boss_void_lord": {
+    "name": "Владыка Пустоты",
+    "hp": 5000,
+    "atk": 220,
+    "def": 75,
+    "spd": 80,
+    "skills": ["basic_attack", "void_debuff", "annihilate"]
+  }
+}

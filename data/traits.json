@@ -1,0 +1,22 @@
+[
+  {"id": "swift", "name": "Swift", "desc": "+10% к скорости", "effect": "spd", "bonus": 10},
+  {"id": "genius", "name": "Genius", "desc": "+15% к урону умениями", "effect": "skill_damage", "bonus": 15},
+  {"id": "berserker", "name": "Berserker", "desc": "+20% к атаке, когда HP < 50%", "effect": "atk_when_low_hp", "bonus": 20},
+  {"id": "lucky", "name": "Lucky", "desc": "+5% к шансу крита", "effect": "crit", "bonus": 5},
+  {"id": "guardian", "name": "Guardian", "desc": "+15% к защите", "effect": "def", "bonus": 15},
+  {"id": "vampire", "name": "Vampire", "desc": "Восстанавливает 10% от нанесённого урона", "effect": "lifesteal", "bonus": 10},
+  {"id": "executioner", "name": "Executioner", "desc": "+25% урона противникам с HP < 30%", "effect": "execute_damage", "bonus": 25},
+  {"id": "arcane", "name": "Arcane", "desc": "+20% к урону магией", "effect": "magic_damage", "bonus": 20},
+  {"id": "iron_wall", "name": "Iron Wall", "desc": "+25% к защите, но -10% к скорости", "effect": "def_up_spd_down", "bonus": 25},
+  {"id": "glass_cannon", "name": "Glass Cannon", "desc": "+30% к атаке, но -20% к HP", "effect": "atk_up_hp_down", "bonus": 30},
+  {"id": "tactician", "name": "Tactician", "desc": "+15% к скорости и +5% к криту", "effect": "spd_crit_up", "bonus": 15},
+  {"id": "healer", "name": "Healer", "desc": "+20% к эффективности лечения", "effect": "heal_power", "bonus": 20},
+  {"id": "thornmail", "name": "Thornmail", "desc": "Возвращает 15% получаемого урона атакующему", "effect": "reflect_damage", "bonus": 15},
+  {"id": "shadow_step", "name": "Shadow Step", "desc": "+20% к уклонению от атак", "effect": "dodge", "bonus": 20},
+  {"id": "fury", "name": "Fury", "desc": "+10% к атаке за каждого погибшего союзника", "effect": "revenge_atk", "bonus": 10},
+  {"id": "sturdy", "name": "Sturdy", "desc": "+15% к максимальному HP", "effect": "hp", "bonus": 15},
+  {"id": "quick_draw", "name": "Quick Draw", "desc": "Первый удар всегда с +30% скорости", "effect": "first_strike_spd", "bonus": 30},
+  {"id": "magic_resist", "name": "Magic Resist", "desc": "Снижает входящий магический урон на 20%", "effect": "magic_def", "bonus": 20},
+  {"id": "giant_slayer", "name": "Giant Slayer", "desc": "+40% урона боссам", "effect": "boss_damage", "bonus": 40},
+  {"id": "immortal", "name": "Immortal", "desc": "Один раз за бой выживает со 1 HP", "effect": "survive_lethal", "bonus": 1}
+]

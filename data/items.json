@@ -1,0 +1,22 @@
+[
+  {
+    "id": "iron_sword",
+    "name": "Iron Sword",
+    "type": "weapon",
+    "base_atk": 10,
+    "image_url": ""
+  },
+  {
+    "id": "wooden_shield",
+    "name": "Wooden Shield",
+    "type": "armor",
+    "base_def": 5,
+    "image_url": ""
+  },
+  {
+    "id": "awakening_core",
+    "name": "Ядро Пробуждения",
+    "type": "material",
+    "description": "Используется для повышения звёзд Пробуждения."
+  }
+]

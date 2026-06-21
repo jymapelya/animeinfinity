@@ -1,0 +1,30 @@
+[
+  {
+    "id": "bg_default",
+    "name": "Стандартный фон",
+    "rarity": "Common",
+    "media_type": "image",
+    "media_url": ""
+  },
+  {
+    "id": "bg_flame",
+    "name": "Огненный вихрь",
+    "rarity": "Rare",
+    "media_type": "image",
+    "media_url": "https://i.ibb.co/...flame.jpg"
+  },
+  {
+    "id": "bg_ocean",
+    "name": "Морская бездна",
+    "rarity": "Epic",
+    "media_type": "video",
+    "media_url": "https://i.ibb.co/...ocean.mp4"
+  },
+  {
+    "id": "bg_void",
+    "name": "Пустота",
+    "rarity": "Legendary",
+    "media_type": "image",
+    "media_url": "https://i.ibb.co/...void.jpg"
+  }
+]

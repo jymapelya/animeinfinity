@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bg_default",
+    "name": "Стандартный фон",
+    "rarity": "Common",
+    "media_type": "image",
+    "media_url": "https://i.ibb.co/d0nCBVtL/Chat-GPT-Image-21-2026-15-05-28.png"
+  },
+  {
+    "id": "bg_flame",
+    "name": "Огненный вихрь",
+    "rarity": "Rare",
+    "media_type": "image",
+    "media_url": "https://i.ibb.co/7xHPGCTj/The-power-of-the-ancient-masters-Wisest-Project-Studios.jpg"
+  },
+  {
+    "id": "bg_ocean",
+    "name": "Морская бездна",
+    "rarity": "Epic",
+    "media_type": "image",
+    "media_url": "https://i.ibb.co/xqY5MXFR/486248091040927467.jpg"
+  },
+  {
+    "id": "bg_void",
+    "name": "Фиолетовая пустота",
+    "rarity": "Legendary",
+    "media_type": "image",
+    "media_url": "https://i.ibb.co/cS455MF1/Beautiful-world-in-Vr-Chat.jpg"
+  },
+  {
+    "id": "bg_kashimo",
+    "name": "Бог молнии",
+    "rarity": "Mythic",
+    "media_type": "image",
+    "media_url": "https://i.ibb.co/TBL8vzHQ/Chat-GPT-Image-21-2026-15-14-11.png"
+  }
+]

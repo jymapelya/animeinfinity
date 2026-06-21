@@ -1,0 +1,20 @@
+{
+  "name": "🌪 Баннер: Великая Буря",
+  "description": "Баннер по вселенной Tensura. Шанс получить Римуру Темпеста и других героев!",
+  "image_url": "https://i.ibb.co/3Y0GZxq0/Chat-GPT-Image-21-2026-22-00-28.png",
+  "pools": {
+    "Secret": ["rimuru_tempest"],
+    "Mythic": ["diablo", "benimaru", "testarossa", "carrera", "ultima"]
+  },
+  "rates": {
+    "Secret": 0.01,
+    "Mythic": 0.5,
+    "Legendary": 5.0,
+    "Epic": 20.0,
+    "Rare": 74.49
+  },
+  "background_rate": 0.5,
+  "background_pool": ["bg_void"],
+  "start_date": "2026-06-20",
+  "end_date": "2026-08-20"
+}
